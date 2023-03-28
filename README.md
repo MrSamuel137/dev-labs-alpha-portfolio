@@ -1,3 +1,3 @@
 # Dev-labs-alpha
 
-Demonstração de projetos
+Demonstração de projetos e práticas
